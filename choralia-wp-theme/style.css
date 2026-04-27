@@ -1,0 +1,16 @@
+/*
+Theme Name: Estudio Choralia
+Theme URI: https://estudiochoralia.com
+Author: AI Studio
+Description: Tema premium para coros y agrupaciones musicales con estética Ethereal Precision.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: choralia
+*/
+
+/* Base styles for the theme */
+body {
+    background-color: #030814;
+    color: #ffffff;
+}
